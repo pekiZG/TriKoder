@@ -74,19 +74,4 @@ Iz rješenja prvog zadatka potrebno je vidjeti poznavanje objektno orijentiranog
  
  
 Za sva pitanja i nejasnoće budite slobodni pitati - pitanja ne donose nikakve negativne bodove.
- 
- 
-Srdačan pozdrav,
-Kristijan Janjić
-OFFICE MANAGER // VODITELJ UREDA
-T: +385 (0)1 488 15 20
-M: +385 (0)91 512 29 47
-E: kristijan.janjic@trikoder.net
 // END QUOTE
-
-Draškovićeva 80/IV, HR-10000 Zagreb, p.p. (p.o. box) 736
-T: +385 (0)1 201 62 00  //  F: +385 (0)1 201 62 01
-W: www.trikoder.net  //  E: info@trikoder.net
-Pravne napomene  //  Disclaimer
-
-
