@@ -18,6 +18,10 @@ class Model {
             
         }
         
+        public function getArmy() {
+            
+        }
+        
         // Car
         public function getCarList()
 	{
