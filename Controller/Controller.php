@@ -15,7 +15,7 @@ class Controller {
           {
                // no special type is requested, show a list of all types
                $simulation = $this->model->getArmy();
-               include '../View/Simulate/Simulate.php';
+               include 'View/Simulate/Simulate.php';
           }
      }
 }
