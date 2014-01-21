@@ -13,8 +13,6 @@
  */
 class Soldier {
     private $HP;
-    private $attack;
-    private $defense;
     
     function __construct($HP) {
         $this->HP = $HP;
@@ -24,24 +22,7 @@ class Soldier {
         return $this->HP;
     }
 
-    public function getAttack() {
-        return $this->attack;
-    }
-
-    public function getDefense() {
-        return $this->defense;
-    }
-
     public function setHP($HP) {
         $this->HP = $HP;
     }
-
-    public function setAttack($attack) {
-        $this->attack = $attack;
-    }
-
-    public function setDefense($defense) {
-        $this->defense = $defense;
-    }
-    
 }

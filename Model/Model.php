@@ -1,18 +1,10 @@
 <?php
-include_once("Soldier.php");
-include_once("Model/Car.php");
-include_once("Model/Fuel.php");
-include_once("Model/Oil.php");
+include_once 'Soldier.php';
+include_once 'Dice.php';
 
 class Model {
-        function __construct() {
-            
-        }
+    function __construct() {
         
-        public function getArmy() {
-            
-        }
-        
-        
+    }
 }
 ?>
